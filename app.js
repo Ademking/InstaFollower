@@ -58,7 +58,7 @@ const followUser = tofollow => {
             if (error.name === 'IGAccountNotFoundError') {
                 console.log(`${chalk.red(" User " + tofollow + " - Not Found!" )}`)
             } else {
-                console.log(`${chalk.red('\n Error - Please Check your Account!')}`);
+                //console.log(`${chalk.red('\n Error - Please Check your Account!')}`);
                 process.exit(1);
             }
         });
