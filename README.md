@@ -1,10 +1,10 @@
 # InstaFollower
 
+![](https://i.imgur.com/ucjjree.gif)
+
 ⚙️ Instagram auto follower tool which helps you to increase your profile popularity on Instagram.
 
 Small and effective script for Instagram that "Auto-Follow" users (from .txt file list)
-
-![](https://i.imgur.com/ucjjree.gif)
 
 ## Installation:
 
