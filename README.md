@@ -8,6 +8,8 @@ Small and effective script for Instagram that "Auto-Follow" users (from .txt fil
 
 ## Installation:
 
+0. Node is required to use this project! To install Node [Click Here](https://nodejs.org/en/download/)
+
 1. Download this Repo [Click Here](https://github.com/Ademking/InstaFollower/archive/master.zip)
 
 2. Extract , then inside the folder, run
